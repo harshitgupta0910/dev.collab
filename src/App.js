@@ -3,7 +3,6 @@ import { Routes, Route } from "react-router-dom";
 import Home from './components/Home';
 import EditorPage from './components/EditorPage';
 import { Toaster } from 'react-hot-toast';
-
 function App() {
   return (
     <>
